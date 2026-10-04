@@ -1,0 +1,37 @@
+EXPEDIENTE DEL PROYECTO
+Persona ejecutora: Alondra Yudivia Santis Ovalle
+Proyecto: ProcesMuebles: Simulación de procesos en una fábrica de muebles de madera
+Project Manager: Amaury Jahaziel Gordillo Hernández
+Corte de control: 16 de septiembre de 2026
+
+ESTADO GENERAL
+- Inicio y formalización: documentados. La evidencia explícita de aprobación del ACTA-002 no está incluida en el ZIP; se registra aceptación operativa por continuidad del proyecto.
+- Planificación: PLAN-002 original conservado. Se agregan WBS-002, GANTT-002, REC-002 y PLAN-002 v2 de recuperación.
+- Ejecución técnica: D1-D5 recibidos. D2-D5 requieren ajuste de consistencia antes de continuar con D6.
+- D6, D7 y D8: pendientes de la persona ejecutora.
+- Seguimiento PM: actualizado; se agregan Kanban, solicitud de correcciones y preparación de Microsoft Project.
+- Riesgos y cambios: se agregan RISK-002, VME-002, INC-002-01 y CC-002-01.
+- Validación: prevalidación D1-D5 realizada; validación final pendiente hasta D8.
+- Cierre: pendiente hasta completar D6-D8 y validación final.
+
+DOCUMENTOS PM AGREGADOS / ACTUALIZADOS
+00_CONTROL/CTRL-002_Indice_Estado.docx
+02_FORMALIZACION/APROB-002_Constancia_Aceptacion_Operativa.docx
+03_PLANIFICACION/WBS-002_EDT_ProcesMuebles.docx
+03_PLANIFICACION/GANTT-002_Cronograma_ProcesMuebles.xlsx
+03_PLANIFICACION/REC-002_Recursos_Costos.docx
+03_PLANIFICACION/PLAN-002_v2_Plan_Recuperacion.docx
+05_SEGUIMIENTO_PM/DAILY_SCRUM/SEG-002_Registro_Seguimiento_Control_Alondra_ACTUALIZADO.docx
+05_SEGUIMIENTO_PM/KANBAN/KANBAN-002_Registro_Estados.docx
+05_SEGUIMIENTO_PM/EVIDENCIAS_COMUNICACION/SOL-002-01_Solicitud_Correcciones_D2_D5.docx
+05_SEGUIMIENTO_PM/HERR-002_Registro_Herramientas.docx
+05_SEGUIMIENTO_PM/MS_PROJECT/MSPROJECT-002_Registro_Seguimiento.docx
+05_SEGUIMIENTO_PM/MS_PROJECT/MSPROJECT-002_Importacion.csv
+06_RIESGOS_CAMBIOS/RISK-002_Matriz_Riesgos.docx
+06_RIESGOS_CAMBIOS/VME-002_Analisis_Cuantitativo.docx
+06_RIESGOS_CAMBIOS/INC-002-01_Retraso_Plan_Original.docx
+06_RIESGOS_CAMBIOS/CC-002-01_Ajuste_Linea_Base_D2_D5.docx
+07_VALIDACION_PM/REV-002-01_Prevalidacion_D1_D5.docx
+
+NOTA
+No se generaron D6, D7, D8, VALID-002 ni CIERRE-002 como completados porque la evidencia técnica todavía no existe. Los marcadores pendientes se conservan para evitar documentar trabajo no realizado.

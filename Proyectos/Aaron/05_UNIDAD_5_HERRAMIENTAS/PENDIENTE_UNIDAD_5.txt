@@ -1,0 +1,5 @@
+UNIDAD 5 · HERRAMIENTAS TECNOLÓGICAS
+Pendiente agregar evidencia formal del uso de herramientas indicadas en la instrumentación:
+- Jira y/o Trello y/o Microsoft Project.
+- Control de cambios y seguimiento.
+Se puede replicar el estado D1-D8 sin rehacer el proyecto.

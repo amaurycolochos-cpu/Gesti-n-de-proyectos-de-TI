@@ -1,0 +1,21 @@
+EXPEDIENTE PM - ALONDRA / PROCESMUEBLES
+
+Este ZIP reúne los documentos de seguimiento previamente organizados y la nueva entrega técnica recibida el 29 de septiembre de 2026. Los documentos con fecha anterior se conservan como historial y no se han alterado.
+
+ESTADO VIGENTE
+En recuperación. D2, modelo Bizagi y corrida base fueron recibidos y están en revisión. D6-D8 siguen pendientes.
+
+PARA ENVIAR A ALONDRA
+04_SEGUIMIENTO_PM/COMUNICACIONES/SOL-002-02_Solicitud_Ajustes_D2_D5_2026-09-29.pdf
+
+CONTENIDO DEL EXPEDIENTE
+00_CONTROL - control vigente e índice.
+01_FORMALIZACION - aceptación operativa.
+02_PLANIFICACION - plan, EDT, cronograma y recursos/costos.
+03_ENTREGABLES_TECNICOS - entregas técnicas por D.
+04_SEGUIMIENTO_PM - registros, Kanban, comunicaciones y MS Project.
+05_RIESGOS_CAMBIOS - riesgos, incidencia, VME y cambio.
+06_VALIDACION_PM - revisiones PM.
+07_CIERRE - cierre pendiente.
+
+La ubicación en una carpeta no significa que un entregable esté aprobado. Consultar CTRL-002 v3 y REV-002-02 para el estado al corte.

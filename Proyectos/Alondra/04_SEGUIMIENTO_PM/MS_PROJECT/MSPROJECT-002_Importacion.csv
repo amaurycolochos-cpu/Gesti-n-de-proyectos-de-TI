@@ -1,0 +1,9 @@
+﻿ID,Nombre de tarea,Duración,Predecesoras,Estado actual
+D1,Mapa general del proceso,1d,,En revisión
+D2,Datos y tiempos,1d,D1,En revisión
+D3,Modelado BPMN,1d,D2,En revisión
+D4,Modelo configurado,2d,D3,En revisión
+D5,Pruebas y validación,1d,D4,En revisión
+D6,Análisis de escenarios,2d,D5,Pendiente
+D7,Informe de resultados,1d,D6,Pendiente
+D8,Entrega final,1d,D7,Pendiente

@@ -1,0 +1,1 @@
+D6 está pendiente. Iniciar cuando D2-D5 tengan línea base aprobada. Comparar el escenario base con una alternativa y mantener registro de supuestos, métricas y cambio aplicado.

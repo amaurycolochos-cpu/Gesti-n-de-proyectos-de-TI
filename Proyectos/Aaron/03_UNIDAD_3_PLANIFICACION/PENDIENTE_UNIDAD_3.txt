@@ -1,0 +1,5 @@
+UNIDAD 3 · PLANIFICACIÓN DE PROYECTOS
+Pendientes del expediente académico de Aarón:
+1. WBS-003 / EDT del proyecto.
+2. GANTT-003 con planificado vs. real.
+3. REC-003: recursos humanos, tecnológicos y costos/presupuesto.

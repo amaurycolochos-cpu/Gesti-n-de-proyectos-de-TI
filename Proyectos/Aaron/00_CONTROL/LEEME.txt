@@ -1,0 +1,16 @@
+EXPEDIENTE PM · AARÓN ADAEL NANGUSE HERNÁNDEZ
+Proyecto: Fast Burger: Simulación del proceso de atención de clientes
+Project Manager: Amaury Jahaziel Gordillo Hernández
+Estado: COMPLETO
+
+00_CONTROL: índice y estado general.
+01_UNIDAD_1_INICIO: levantamiento, acta aprobada y constancia de aprobación.
+02_UNIDAD_2_METODOLOGIAS: plan de recuperación, seguimiento, Kanban y evidencias.
+03_UNIDAD_3_PLANIFICACION: WBS, Gantt, recursos y costos.
+04_UNIDAD_4_RIESGOS: incidencia, matriz de riesgos y VME.
+05_UNIDAD_5_HERRAMIENTAS: herramientas utilizadas, Trello y control de cambios.
+06_UNIDAD_6_CIERRE: revisiones, medición, validación, lecciones aprendidas y cierre.
+07_ENTREGABLES_TECNICOS: D1-D8.
+08_ARCHIVO_HISTORICO: versiones anteriores y material histórico.
+
+Nota: las actividades académicas que Amaury entrega al docente no forman parte de este expediente PM.

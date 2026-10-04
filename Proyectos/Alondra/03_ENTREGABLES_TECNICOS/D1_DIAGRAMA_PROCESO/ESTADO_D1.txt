@@ -1,0 +1,1 @@
+D1 no aparece en los ZIP revisados. El registro PM anterior lo dejó en estado condicional. Confirmar dónde está la versión vigente antes de evaluar o marcar el entregable como faltante.

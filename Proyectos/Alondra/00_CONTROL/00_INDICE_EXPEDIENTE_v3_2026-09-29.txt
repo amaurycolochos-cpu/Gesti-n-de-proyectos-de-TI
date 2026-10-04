@@ -1,0 +1,24 @@
+EXPEDIENTE DE PROYECTO - PROCESMUEBLES
+Persona ejecutora: Alondra Yudivia Santis Ovalle
+Project Manager: Amaury Jahaziel Gordillo Hernández
+Corte: 29 de septiembre de 2026
+Estado: En recuperación; nueva entrega D2-D5 en revisión.
+
+ESTRUCTURA
+00_CONTROL: índice, estado vigente, inventario y notas de revisión.
+01_FORMALIZACION: constancia operativa del acta.
+02_PLANIFICACION: plan de recuperación, EDT, cronograma y recursos/costos.
+03_ENTREGABLES_TECNICOS: D2 recibido en PDF; paquete Bizagi recibido para D3-D4; escenario base Excel recibido para D5. D1 y los reportes descriptivos separados de D3/D4 no aparecen en los ZIP revisados; verificar su ubicación antes de declarar faltante el trabajo.
+04_SEGUIMIENTO_PM: seguimiento, Daily Scrum, Kanban, comunicaciones y evidencia de MS Project.
+05_RIESGOS_CAMBIOS: incidencia, matriz, VME y control de cambios.
+06_VALIDACION_PM: prevalidación del 16 de septiembre y revisión nueva del 29 de septiembre. La validación final sigue pendiente.
+07_CIERRE: pendiente hasta completar D1-D8 y aprobación final.
+99_HISTORICO: reservado para versiones anteriores aprobadas o sustituidas.
+
+ARCHIVOS TECNICOS NUEVOS
+D2_Tabla_datos_tiempos_corregidos_2026-09-29.pdf - datos y tiempos corregidos.
+ProcesMuebles_Bizagi_2026-09-28.bpm.zip - paquete Bizagi con Diagramas 1 y 2; el Diagrama 2 incorpora Inspección y configuración de simulación.
+Escenario_base_Bizagi_2026-09-28.xlsx - hojas Recursos y ProcesMuebles.
+
+CONTROL
+No marcar D2-D5 como aprobados hasta resolver SOL-002-02 y dejar evidencia de revisión. No iniciar D6 antes de aprobar la línea base. El plan original venció el 30 de agosto; acordar un calendario nuevo.

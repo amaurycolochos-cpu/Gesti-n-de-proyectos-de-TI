@@ -1,0 +1,5 @@
+PAQUETE DEL MODELO BIZAGI
+
+El archivo ProcesMuebles_Bizagi_2026-09-28.bpm.zip es un paquete de Bizagi Modeler, versión 4.3.0.008. Contiene dos diagramas internos. El Diagrama 2 incluye Inspección, datos BPSim y resultados de simulación; el Diagrama 1 se conserva como antecedente y no debe confundirse con la versión vigente. La persona ejecutora debe confirmar por escrito cuál versión entrega como final.
+
+La existencia del paquete no sustituye el reporte descriptivo de D3/D4 ni la revisión funcional de D5.

@@ -1,0 +1,55 @@
+EXPEDIENTE DE PROYECTO — JOSÉ ÁNGEL GÓMEZ RINCÓN
+Proyecto: Simulación del proceso de producción de block en Industria Bloquera del Sureste
+Identificadores principales: ACTA-001 / PLAN-001
+
+ESTRUCTURA
+01_LEVANTAMIENTO
+  Pendiente: no se proporcionó la solicitud inicial de información de Ángel.
+
+02_FORMALIZACION
+  ACTA-001_Industria_Bloquera_Angel_Aprobacion_Registrada.docx
+  VERSIONES_ANTERIORES/ACTA-001_Industria_Bloquera_Angel_Version_Previa.docx
+  Nota: se conserva la versión previa para trazabilidad; la versión con aprobación registrada se dejó como documento principal.
+
+03_PLANIFICACION
+  PLAN-001_Cronograma_Plan_Trabajo_Angel.docx
+
+04_EJECUCION_ENTREGABLES
+  D1_DIAGRAMA_PROCESO/
+    D1_Diagrama_Proceso_Angel.docx
+    D1_Diagrama_Proceso_Productivo_Angel.drawio
+    ORIGINAL_COMPRIMIDO/D1_Original_Recibido.rar
+
+  D2_DATOS/
+    D2_Tabla_Datos_Tiempos_Angel.docx
+
+  D3_DISENO_MODELO/
+    D3_Diseno_Formal_Modelo_Angel.docx
+
+  D4_MODELO_FUNCIONAL/
+    D4_Simulacion_Grafica_Proceso_Productivo_Angel.docx
+    D4_Simulacion_Bloquera_Angel.py
+    ORIGINAL_COMPRIMIDO/D4_Original_Recibido.rar
+
+  D5_PRUEBAS_VALIDACION/          Pendiente
+  D6_COMPARACION_ESCENARIOS/      Pendiente
+  D7_INFORME_RESULTADOS/          Pendiente
+  D8_ENTREGA_FINAL/               Pendiente
+
+05_SEGUIMIENTO_PM
+  Pendiente crear SEG-001 y registrar Daily Scrum, Kanban y evidencias de comunicación reales.
+
+06_RIESGOS_CAMBIOS
+  Pendiente documentar únicamente los riesgos, incidencias o cambios que realmente se gestionen.
+
+07_VALIDACION_PM
+  Pendiente hasta completar D1-D8 y realizar revisión final.
+
+08_CIERRE
+  Pendiente hasta terminar la validación.
+
+NOTAS DE ORGANIZACIÓN
+- D1.rar y D4.rar fueron descomprimidos. Sus archivos internos se encuentran visibles en sus carpetas correspondientes.
+- Los RAR originales también se conservaron dentro de ORIGINAL_COMPRIMIDO para mantener trazabilidad de la evidencia recibida.
+- No se modificó el contenido interno de los documentos, diagramas ni código; únicamente se organizaron y renombraron los archivos.
+- Las carpetas marcadas como .pendiente no contienen todavía entregables proporcionados.
